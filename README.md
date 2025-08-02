@@ -28,6 +28,17 @@ This repository contains a timestamped draft of a modular architecture for align
 
 📎 [Download the patent draft (PDF)](MCMC-patent-draft-v1.pdf)
 
+## Modular Architecture Snapshot
+
+This invention supports:
+- Periodic sampling via MCMC
+- Replayable audit artifacts
+- Trigger-based drift detection
+- Model-agnostic deployment
+
+These components are described in the patent draft and illustrated via the Alignment Achieved Cube graphic.
+
+
 **Author**: John Kirby  
 **Date of Disclosure**: August 1, 2025  
 **Location**: Denton County, Texas, USA
