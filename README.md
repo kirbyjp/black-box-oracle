@@ -1,3 +1,7 @@
+![Alignment Achieved Cube](alignment-achieved-cube.png)
+
+*The Black Box Oracle — revealing alignment across time.*
+
 # black-box-oracle
 A modular, forensic logbook for AI systems—tracking alignment drift and enabling accountability across time.
 
