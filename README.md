@@ -17,6 +17,17 @@ While not open-source, this work is intended as a foundation for principled coll
 
 No permission is granted to reproduce, modify, distribute, or incorporate this work into derivative projects or patent filings without explicit written consent from the author.
 
+## Patent Draft: MCMC-Based Alignment Drift Tracking
+
+This repository contains a timestamped draft of a modular architecture for alignment drift tracking using periodic MCMC sampling. The design supports forensic replay, audit triggers, and model-agnostic deployment across AI systems.
+
+- **Purpose**: Establish open, defensible standards for AI transparency, legal discovery, and ESG compliance
+- **Scope**: Covers drift detection, replayable audit artifacts, and alignment verification across time
+- **Status**: Draft patent filed; this version serves as timestamped prior art and coalition reference
+- **License**: Custom license included to prevent monopolization and support open coalition use
+
+📎 [Download the patent draft (PDF)](patent-draft-v1.pdf)
+
 **Author**: John Kirby  
 **Date of Disclosure**: August 1, 2025  
 **Location**: Denton County, Texas, USA
