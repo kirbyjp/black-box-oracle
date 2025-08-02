@@ -26,7 +26,7 @@ This repository contains a timestamped draft of a modular architecture for align
 - **Status**: Draft patent filed; this version serves as timestamped prior art and coalition reference
 - **License**: Custom license included to prevent monopolization and support open coalition use
 
-📎 [Download the patent draft (PDF)](patent-draft-v1.pdf)
+📎 [Download the patent draft (PDF)](MCMC-patent-draft-v1.pdf)
 
 **Author**: John Kirby  
 **Date of Disclosure**: August 1, 2025  
