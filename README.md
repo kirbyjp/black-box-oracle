@@ -3,6 +3,8 @@ A modular, forensic logbook for AI systems—tracking alignment drift and enabli
 
 # Black Box Oracle — Timestamped Prior Art Disclosure
 
+## 🧭 Alignment & Intent
+
 This repository serves as timestamped prior art for the invention titled *Black Box Oracle*, including its modular architecture for alignment drift tracking, forensic replay, and audit-first AI governance. It is not open-source and is not intended for reuse or redistribution.
 
 The materials herein—including diagrams, specifications, and provisional patent excerpts—are published to establish public domain knowledge and prevent monopolistic patenting. All rights are reserved.
