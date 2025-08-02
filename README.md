@@ -1,4 +1,4 @@
-![Alignment Achieved Cube](alignment-achieved-cube.png)
+![Alignment Achieved Cube](Alignment-achieved-cube.png)
 
 *The Black Box Oracle — revealing alignment across time.*
 
