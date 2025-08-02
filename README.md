@@ -9,7 +9,7 @@ A modular, forensic logbook for AI systems—tracking alignment drift and enabli
 
 ## 🧭 Alignment & Intent
 
-This repository serves as timestamped prior art for the invention titled *Black Box Oracle*, including its modular architecture for alignment drift tracking, forensic replay, and audit-first AI governance. It is not open-source and is not intended for reuse or redistribution.
+This repository serves as **timestamped prior art** for the invention titled **Black Box Oracle**, including its modular architecture for **alignment drift tracking**, **forensic replay**, and **audit-first AI governance**.
 
 The materials herein—including diagrams, specifications, and provisional patent excerpts—are published to establish public domain knowledge and prevent monopolistic patenting. All rights are reserved.
 
@@ -38,22 +38,24 @@ This invention supports:
 
 These components are described in the patent draft and illustrated via the Alignment Achieved Cube graphic.
 
-### Related Work and Differentiation
+## Related Work and Differentiation
 
 While existing systems address aspects of traceability, drift detection, and audit logging, they often do so in isolation—and with significant resource overhead. For example:
 
-- **Concept drift detection frameworks** (e.g., DDM, ADWIN) monitor statistical shifts in data distributions, but do not trace semantic alignment or reasoning evolution.
-- **Audit trail tools** (e.g., MLflow, SageMaker Registry) log model versions and approvals, yet lack replayable, per-decision logic inspection.
-- **Black box interpretability methods** (e.g., SHAP, LIME) offer feature attribution, not forensic replay or drift-aware reasoning traceability.
+- **Concept drift detection frameworks** (e.g., *DDM*, *ADWIN*) monitor statistical shifts in data distributions, but do not trace semantic alignment or the evolution of model reasoning.
+- **Audit trail tools** (e.g., *MLflow*, *SageMaker Registry*) log model versions and approvals, yet lack replayable, per-decision logic inspection.
+- **Black box interpretability methods** (e.g., *SHAP*, *LIME*) offer feature attribution—not forensic replay or drift-aware reasoning traceability.
 - **Enterprise provenance systems** focus on data lineage and telemetry, often requiring heavy infrastructure and vendor lock-in.
 
 This architecture introduces a novel, modular approach to:
-- **Alignment drift tracking**—semantic, periodic snapshots of model reasoning
-- **Replayable audit trails**—inspectable logic chains across time
-- **Model-agnostic deployment**—no dependence on specific frameworks or vendors
-- **Lightweight operation**—designed for periodic audits, not continuous resource drain
 
-By unifying these capabilities, it enables legal-grade forensic inspection of AI behavior—without the complexity or cost of existing solutions.
+- **Alignment drift tracking** — semantic, periodic snapshots of model reasoning  
+- **Replayable audit trails** — inspectable logic chains across time  
+- **Model-agnostic deployment** — no dependence on specific frameworks or vendors  
+- **Lightweight operation** — designed for periodic audits, not continuous resource drain  
+
+By unifying these capabilities, it enables **legal-grade forensic inspection** of AI behavior—without the complexity or cost of existing solutions.
+
 ---
 **Disclosure Timestamp**  
 This document and its contents were publicly disclosed on **August 1, 2025**, by John Kirby in Denton County, Texas, USA.  
